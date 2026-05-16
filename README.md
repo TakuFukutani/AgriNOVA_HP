@@ -1,5 +1,6 @@
 # AgriNOVA_HP
 The repository for the HP of AgriNOVA
+ちょこちょこ隙間時間に更新します。多分...
 
 ## フォルダの構成
 ### ファイルの種類
